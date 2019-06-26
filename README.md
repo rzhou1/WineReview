@@ -13,14 +13,11 @@ Given that the goal is to predict wine variety from the review (column descripti
 ![Price_dist](https://user-images.githubusercontent.com/34787111/60202059-ac513000-97fe-11e9-98ae-9b0e400f9a0d.png)
 
 ##Model
-[NN_architecture.pptx](https://github.com/rzhou1/WineReview/files/3331293/NN_architecture.pptx)
+![NN_architecture](https://user-images.githubusercontent.com/34787111/60202610-c93a3300-97ff-11e9-80f1-a19dbaeec831.png)
 
 
-![variety_NN_others51](https://user-images.githubusercontent.com/34787111/60202086-b5420180-97fe-11e9-85bb-c85696cf5e3b.png)
 
-![variety_NN_desc_only_77](https://user-images.githubusercontent.com/34787111/60202097-bbd07900-97fe-11e9-9d11-876a2600187e.png)
-
-![variety_NN_std_82](https://user-images.githubusercontent.com/34787111/60202114-c12dc380-97fe-11e9-8427-257b52b94a42.png)
+![variety_nn_cm3](https://user-images.githubusercontent.com/34787111/60202622-ce977d80-97ff-11e9-95da-a541f3bc503c.png)
 
 ##Conclusion
 
