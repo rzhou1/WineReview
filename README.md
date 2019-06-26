@@ -25,7 +25,7 @@ Figure 3. Neural network model architecture consisting of a textural representat
 
 ![variety_nn_cm3](https://user-images.githubusercontent.com/34787111/60202794-3f3e9a00-9800-11e9-8e6a-a44219b133ec.png)
 
-Figure 4. Confusion matrix of the predicted results for the test data. (a): model with input of other features only (excluded textual embeddings), accuracy 51%; (b): model with the textual embeddings only, accuracy 77%; (c): model with both the textual embeddings and other features, accuracy 82%.
+Figure 4. Confusion matrix of the predicted results for the test data. (a): model with input of other features only (excluded textual embeddings), accuracy 51%; (b): model with input of the textual embeddings only, accuracy 77%; (c): model with input of both the textual embeddings and other features, accuracy 82%.
 
 ##Conclusion
 
