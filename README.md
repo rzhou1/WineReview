@@ -17,7 +17,7 @@ Given that the goal is to predict wine variety from the review (column descripti
 
 
 
-![variety_nn_cm3](https://user-images.githubusercontent.com/34787111/60202622-ce977d80-97ff-11e9-95da-a541f3bc503c.png)
+![variety_nn_cm3](https://user-images.githubusercontent.com/34787111/60202794-3f3e9a00-9800-11e9-8e6a-a44219b133ec.png)
 
 ##Conclusion
 
